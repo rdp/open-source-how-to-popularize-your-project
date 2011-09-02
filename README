@@ -1,0 +1,60 @@
+Steps to make your open source project popular.
+
+The end goal of any project should be that 
+people use it.  And typically, you want it to 
+be used by the most people that would benefit from it,
+if they knew it existed and used it.  Basically your goal *should* be
+to make your app as popular as possible. 
+
+1) Have a useful app.
+1.5a) you can distribute it to developers before it's useful or polished.
+1.5b) you should distribute it to "prototype" users during the
+development process, to refine your requirements and re-assess
+what people actually want.
+
+2) Make it easy to use.
+   Ask for user feedback on this.  And early.
+
+3) Try not to have too many bugs which annoy users.
+
+4) **SEO**
+
+This is the key.  Google can help you find users that you never could.
+And is the great playing field leveler.
+
+How to increase SEO:
+
+4a) use the google keyword ad tool to see what the most popular "related" queries
+are for your product.  Make this the name of your project.
+
+Ex: for a project which takes "loopback" audio and captures it as a device, the following were the statistics:
+
+waveout mix 1600
+audio sniffer 390
+record what you hear 12,000
+virtual audio interface 320
+audio loopback 1900
+record speakers 12,100
+
+audio capture 246_000
+virtual audio 135_000
+audio grabber 165,000
+
+So now choose a project name that matches the most popular:
+  in my case: virtual audio capture grabber device
+
+rename your github project this, create a sourceforge project with the same name style, change its "project url" to point to yours,
+create the "project site" as virtual.audio.capture.grabber.device.t28.net or the like. (t28.net is freely available on afraid.org)
+You want as many links back to it as possible, esp. if it's a related conversation or the like.
+Post to your blog a post "virtual audio capture grabber device" with a link just to your project.
+Possibly several.
+
+Search for the various words that match (all of them, even low popularity), and try and post links back from there
+to your project.
+
+make it part of your email signature
+
+make a facebook group page for it, get 25 people to like it so that it can be visible or the like.
+
+Then the secret is to "keep pushing it" over time.  As people blog related things, tell them about it, et al.
+
