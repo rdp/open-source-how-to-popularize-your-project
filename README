@@ -18,10 +18,293 @@ So here are some ideas how.
 
 1) Have a useful app.
 1.5a) you can distribute it to developers before it's useful or polished.
-1.5b) you should distribute it to "prot
+1.5b) you should distribute it to "prototype" users during the
+development process, to refine your requirements and re-assess
+what people actually want.
 
-become a contributor for a lesser maintained project
+2) Make it easy to use.
+   Ask for user feedback on this.  And early.
 
-maintain lower "layers" of software to have a big upper impact.
+3) Try not to have too many bugs which annoy users.
 
-don't redesign, fix theirs
+4) **SEO**
+
+This is the key.  Google can help you find users that you never could.
+And is the great playing field leveler.
+
+How to increase SEO:
+
+4a) use the google keyword ad tool to see what the most popular "related" queries
+are for your product.  Make this the name of your project.
+
+Ex: for a project which takes "loopback" audio and captures it as a device, the following were the statistics:
+
+waveout mix 1600
+audio sniffer 390
+record what you hear 12,000
+virtual audio interface 320
+audio loopback 1900
+record speakers 12,100
+
+audio capture 246_000
+virtual audio 135_000
+audio grabber 165,000
+
+So now choose a project name that matches the most popular:
+  in my case: virtual audio capture grabber device
+
+maybe add some personal flair, like "yet another" or something to make it distinct.
+
+rename your github project this, create a sourceforge project with the same name style, change its "project url" to point to yours,
+create the "project site" as virtual.audio.capture.grabber.device.t28.net or the like. (t28.net is freely available on afraid.org)
+You want as many links back to it as possible, esp. if it's a related conversation or the like.
+Post to your blog a post "virtual audio capture grabber device" with a link just to your project.
+Possibly several different posts with different common keyword combinations.
+Also could blog like "competitor/alternative to xxx" with the name of some popular (pay) competitor et al.
+
+Search for the various words that match (all of them, even low popularity), and try and post links back from there
+to your project.
+  Be careful to not spam, though. Use your "real" name when making blog entries, and don't make extra blog entries, just change the url you use to your site.  Be authentic/legitimate or you'll be marked as a spammer.
+  If you do get marked as a spammer, then change your url to somesubdomain.yourproject.com 
+  "for the first few links, try and add yourself to them" ref: http://www.lextm.com/2008/08/promoting-open-source-projects.html
+
+
+make it part of your email signature (have your name link back to it, or the like).
+
+make a facebook group page for it, get 25 people to like it so that it can be visible or the like.
+
+Then the secret is to "keep pushing it" over time.  As people blog related things, tell them about it, et al.
+
+Post to mailing lists that are related (or even once with each release or major release).
+
+Create google group with the same name. Link appropriately.
+Get your-name.com
+
+TODO change the name earlier, rather than later.
+
+Add yourself to alternativeto.net
+
+Get people on facebook to "like" you or your web page
+
+Maybe add yourself to online indexes of competitors (like dmoz or the like)
+
+Create youtube account with name, some videos, link back to your project.
+
+create google "project" (code) with same name, link in.
+
+Try to have "related" sites link back to you, in their links page for example,
+or have them do a blog post "about" your new site or the like.  Friends, family, anybody.
+
+If your project is a fit, advertise it on stackoverflow questions, while extolling its virtues.  Same with various mailing lists "semi-old" threads or the like (don't do too many obviously).
+
+Tweet about it.  That is, be social, so that tweeting means something, then show it off.
+
+ycombinator?
+
+http://stackoverflow.com/questions/95710/how-do-you-promote-advertise-evangelize-your-open-source-project/7290165#7290165
+has some good ideas (follow the links, too).
+
+Basically your goal is to advertise "where your people are" (your end users).  Find
+them, find a way to advertise right there.
+
+Add tracking (google analytics works) so that you can see where more traffic is doming from and how to focus perhaps).
+
+
+ask your users or potential users what they would want to see 
+   (and/or possibly "what would you pay money to have related to this project" since that's what would be more important to them).
+
+don't have your project "home page" be github as then you can't track analytics
+
+try to get past a tipping point artificially
+
+Sit down with somebody and have them try it out (preferably while talking out loud).  The closer to your target audience
+the better.  Ask for feedback (then respond to feedback and show them the fixes preferably).
+
+In general start early, release early (but fully tested) to build your project [?]
+
+In general start with something that "if users knew it existed, it could become popular ever" (ex "Imagine the best that could happen with your project popularity wise" to check).
+
+
+You could also submit a patch to a previously existing already popular project, as a way to immediately have "your" project be popular.
+
+
+If there are no google searches "near" or "close" to your idea (it's too radical or the like) then you could look for popular searches that are "near" or "related" and append them to your project name possibly, though I've never tried that.
+
+TODO get somebody that actually has popular projects to give me the run down.
+
+You could take over an already popular project you're interested in (or become the "3rd main developer" for it) to get some free popularity.
+
+
+A few case studies: Luis Lavena took over the One click installer for ruby for windows.  Its download number was already 3 million when he took over. Instant popularity!
+
+VLC media player does something most free players don't, which is play DVD's back right (and also most files, etc.).  They're by far the most popular sourceforge project.
+
+Rails had some screencasts initially (and high-ish quality online tutorials) that really helped its popularity.
+
+May want to include "free" in the name.
+
+Do polls "what else would you like this to do? What about these ideas how important would you rate them?"
+
+polish like beautiful code or documentation, examples, "book style" tutorials, books, all help.
+
+keytool: use generic searches (two words'ish ?) and it will tell you what related popular searches are, so you can see the
+best names to use.
+  click "order by global to see which are most popular      
+  you can also enter "competitor's" names as search criteria and it will tell you all related searches to them.
+
+
+
+blog posts that make it...um...match google searches that are high for it.
+  advertise as a competitor to that other fella :P
+
+
+google the various, try to leave comments et al :)
+
+alternativeto.net <add self as list of competitors>
+
+present at conferences/fairs/local user groups et al (never tried this myself but it could help spread the word/look for collaborators/get early feedback)
+
+advertise local newspapers (?) "local company creates x!"
+
+
+This may be annoying, but if you want to attract "lay" members, you'll want a youtube video or something like that (with a person describing it or what not).
+  maybe on the main page, but don't auto-play that's just too hard.
+
+Big "free download" links.
+
+for code projects, and a little bit other projects as well : Until you have demos/screen casts/sample programs written in it/production apps nobody knows that they *can* show interest :)
+
+screencasts on youtube with good "appropriate" names so that it can attract google SEO/be helpful.
+
+google +1/facebook like :)
+
+easy way for "lay" contributors (ex: google +)
+
+easy feedback (feedback box).
+  uservoice, to allow for voting?
+
+if you have any related projects (or perhaps any other projects at all) where you could advertise it, that could help, esp. if they're popular.
+
+Be kind, gentle, thankful when you get user contributions.  Why not?
+  have an contributors file, add people freely, tell them :)
+  
+"lurk" online (google alerts? stackoverflow? other related mailing lists? blog entries that get posted about
+your topic?) and answer peoples' questions/point them in the right direction.
+
+Support your product.  Why not?  Be nice to newbies.  If newbie questions are too lame, establish a FAQ so you can
+redirect them easily to something that even they can understand.  
+
+Port it to Linux if you want to have developers help you on it (and/or mac if your developer base is more on mac).
+Your initial users may only be developers, anyway, so building that initial community might be good to get things started.
+
+If there's something like rubyflow/infoq that you can submit things to, then do that.
+
+on your website:
+  make it look reasonably good.  At least one image, nothing ugly.
+  extoll virtues of your product.
+  extoll what makes it unique.
+  big download button, right on front page.
+
+rename your product early.
+
+don't like some other project? maybe consider fixing that project instead of starting your own.
+  * less maintenance burden for you.
+  * you avoid having to popularize your project at all.
+  * forking is an option, too. (and/or re-branding).
+
+release "dev" betas earlier on, for testing, even before user betas.
+
+pay for related newsletter, +- adwords, plead for facebook like/google +1's on your web site :)
+  "follow us" on facebook...
+  tweet/facebook it for releases/news/comments
+
+mailing list same name as project.
+
+domain, title same name as project.  At least the subdomain.
+
+m/b domain name like netflixinstantcompetitor.com though I'm not sure if that helps or not.
+  m/b subdomains with that name?
+  netflixinstantfreecompeitor.com
+
+start with a project that ("imagine the ideal of what would happen with this project") could
+  ever become very popular.
+
+just help some popular project instead of starting your own.
+  or use their libraries in your project possibly
+
+try to advertise to "your audience"
+  vaguely related newsletters
+  real newspapers [?]
+ask people first if they like your idea (people from your potential user base)
+
+
+make it easy to use/human friendly
+  GUI/admin control panel.
+
+Polish. Not the country.  Get the fine edges worked out.
+
+have a UI. make it friendly.
+
+Make a "lay" version that cannot be misunderstood (expert version is ok too).
+
+Watch people using it while they talk out loud.
+
+look past your own needs for what it should do.
+
+
+submit it for reviews by cnet, etc.
+  slashdot? that type of thing.
+
+put your "name" in h1 tags, also name your movies/video with SEO friendly names
+  for the true work-a-holics, here's how to try and boost your facebook page more: http://searchengineland.com/7-tips-for-boosting-seo-of-your-facebook-page-91961
+    basically name the tabs well is all he says.
+
+
+The reality is that you may need some GUI or some simplified means for them to access your program, and/or understand or use it more easily.
+
+
+You need two means of contact a "feedback" form and a group.  Preferably google.
+Email address doesn't hurt either, though you can post the email to address of your group, too.
+
+Don't be afraid to not do your own project, but just become the "5th man" in another popular open source project.
+After awhile and many high quality patches, you'll probably become well accepted, and your contributions
+make a difference, not to mention the ease of not having to take on the "whole load" of maintaining/popularizing
+the project yourself, as well as possibly being able to avoid having to popularize the project at all, if it's
+already popular!
+
+
+
+Sourceforge is a good place to host your "main" site since you can have a custom subdomain url,
+and add your own analytics, and have free hosting.
+
+TODO note META DOMAINS :)
+  ping me if you want a subdomain under inet2.org or t28.net or inet22.com
+
+don't be afraid to "pivot" your project every so often, with feedback from users, so that you can create something of most value.
+You want to create something of value because that would be good for society, right?
+
+TODO instructions on "donation question post install" (link? open candy? text field?)
+
+register with me and I'll give all the adwords profits to you! (or, give me your adwords ID...)
+
+possibly something that connects bid for fix'ish with their checkout? ???
+
+since your goal is to help people, in the end, become the 5th man/documentation guy/mailing list helper for some other project or group.
+They'll love it, you'll make an immediate impact, *avoid duplication,* life is good.
+
+google alerts :)
+
+you may need a "super simplified" version of your app, for distribution, for non technical users.
+
+
+The mark of a truly polished product (not that polish matters, functionality is 20%, propaganda is 80%) is that it runs "wonderfully well" on windows.  Like VLC.  They've polished the edges off in windows.
+
+For software projects: documentation isn't finished until you have a book.
+
+Once you have used your software for too long, you have no idea how normal humans will see it.
+  Or how they will use it.  Or what will concern them.  You need to run it through/past a few of them first.
+
+
+screencasts for "getting started" (and/or "how cool this is") are needed. 
+
+quality over quantity
