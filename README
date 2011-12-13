@@ -326,3 +326,6 @@ If something is more "generally" useful (a new mouse trap) then it has the poten
 
 Sometimes you have to have tons of value added before...you can add value, if that makes sense (angie's list).
   Seems like once you have the right name, and the lurking, then you just need tons of value.
+
+
+Your command line utility is not complete until it has some type of wrapper GUI on it.
