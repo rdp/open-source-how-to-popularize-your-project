@@ -342,3 +342,5 @@ for each piece.
 Developing a "final, end user" app for your individual component pieces may help them to get used.
 
 I think the principle is...work on a few projects and polish them, not tons of projects that don't affect many people.
+
+normal end users want some wrapper that insulates them from *all* of the output and complexity of the lower layers.  dirt simple, your own layer on top that abstracts out all the others.
