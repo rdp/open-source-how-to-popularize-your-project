@@ -1,3 +1,7 @@
+TODO:
+  apply steps to this itself
+  read books about it?
+
 Steps to make your open source project popular.
 
 The end goal of any project should be that 
@@ -346,3 +350,5 @@ advertise, advertise, advertise.  it's what business people love, more exposure,
 I think the principle is...work on a few projects and polish them, not tons of projects that don't affect many people.
 
 normal end users want some wrapper that insulates them from *all* of the output and complexity of the lower layers.  dirt simple, your own layer on top that abstracts out all the others.
+
+functionally complete != polished!!!
