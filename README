@@ -2,6 +2,10 @@ TODO:
   apply steps to this itself
   read books about it?
 
+
+NB that this doesn't include much on successful marketing...which is 80% of the product,
+though getting good google SEO is a strong step in the first right direction for marketing...
+
 Steps to make your open source project popular.
 
 The end goal of any project should be that 
@@ -282,7 +286,9 @@ Sourceforge is a good place to host your "main" site since you can have a custom
 and add your own analytics, and have free hosting.
 
 TODO note META DOMAINS :)
-  ping me if you want a subdomain under inet2.org or t28.net or inet22.com
+  ping me if you want a subdomain under inet2.org or t28z
+
+or hosting it under github as "github pages" works, too, subdomain wise effectiveness...though possibly a bit odd...
 
 don't be afraid to "pivot" your project every so often, with feedback from users, so that you can create something of most value.
 You want to create something of value because that would be good for society, right?
@@ -465,3 +471,7 @@ Market early and market hard.  Since it's 80% after all...
   Even before functionality has been built.  It should be stable probably I suppose...
     So I guess polish up early releases to a marketable state?
     Don't need bells and whistles...
+
+"real" end users only care about, mostly, the final final end product "what *could* this be, at its conclusion/fruition
+with all the bells and whistles added, etc."
+  of course, you'll want to pivot to really know/understand what end users end up wanting...
