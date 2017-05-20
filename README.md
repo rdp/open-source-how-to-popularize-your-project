@@ -734,6 +734,9 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of cond
 
 See also:
 
+- [Producing Open Source Software] by Karl Fogel (producingoss.com)
+- [How to self-promote your open source project] by Jason Hibbets (Red Hat)(opensource.com)
+- [How we got our 2-year-old repo trending on GitHub in just 48 hours] by Abhinav Suri (medium.freecodecamp.com)
 - Stackoverflow tag, such as [project](so-tag-project) or [open source](so-tag-open-source)
 - Stackoverflow questions:
   - [Where can I advertise an open source project?](so-1621916)
@@ -744,9 +747,6 @@ See also:
   - [How do one start a successful open source project?](so-3419160)
   - [How do you manage your own small project?](so-1077900)
   - [Seeking advice for taking a project open-source](so-2022200)
-- [Producing Open Source Software](producing-oss) by Karl Fogel
-- [How to self-promote your open source project] by Jason Hibbets (Red Hat)(opensource.com)
-- [How we got our 2-year-old repo trending on GitHub in just 48 hours] by Abhinav Suri (medium.freecodecamp.com)
 - Quora:
   - [How do I promote my open source projects?](quora-hdi-promote-my-open-source-projects)
   - [How do you promote an open source project?](quora-hdy-promote-an-open-source-project)
@@ -761,7 +761,7 @@ See also:
 <!--website-->
 [37 signals]: http://www.37signals.blogs.com/
 [opensiteexplorer.org]: http://www.opensiteexplorer.org
-[producing-oss]: http://producingoss.com/
+[Producing Open Source Software]: http://producingoss.com/
 <!--article-->
 [7 tips for boosting seo of your facebook page]: http://searchengineland.com/7-tips-for-boosting-seo-of-your-facebook-page-91961
 [How to self-promote your open source project]: https://opensource.com/business/13/2/self-promoting-open-source-projects
