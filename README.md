@@ -726,6 +726,10 @@ Maybe in the ideal world people would make money at it?
 
 on 2017 '[how do you promote advertise evangelize your open source project](so-95710)' question on Stackoverflow is deleted.
 
+# Contributing
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
 # Links
 
 See also:
