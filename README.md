@@ -746,6 +746,7 @@ See also:
   - [Seeking advice for taking a project open-source](so-2022200)
 - [Producing Open Source Software](producing-oss) by Karl Fogel
 - [How to self-promote your open source project] by Jason Hibbets (Red Hat)(opensource.com)
+- [How we got our 2-year-old repo trending on GitHub in just 48 hours] by Abhinav Suri (medium.freecodecamp.com)
 - Quora:
   - [How do I promote my open source projects?](quora-hdi-promote-my-open-source-projects)
   - [How do you promote an open source project?](quora-hdy-promote-an-open-source-project)
@@ -764,6 +765,7 @@ See also:
 <!--article-->
 [7 tips for boosting seo of your facebook page]: http://searchengineland.com/7-tips-for-boosting-seo-of-your-facebook-page-91961
 [How to self-promote your open source project]: https://opensource.com/business/13/2/self-promoting-open-source-projects
+[How we got our 2-year-old repo trending on GitHub in just 48 hours]: https://medium.freecodecamp.com/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b
 [Promoting Open Source Projects]: https://blog.lextudio.com/promoting-open-source-projects-863ad2f838dc
 [Treat Open Source Like a Startup]: https://hacks.mozilla.org/2014/05/open-source-marketing-with-velocityjs/
 [best documentation thoughts]: http://betterlogic.com/roger/2012/06/best-documentation-thoughts
