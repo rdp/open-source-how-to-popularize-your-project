@@ -737,6 +737,7 @@ See also:
 - [Producing Open Source Software] by Karl Fogel (producingoss.com)
 - [How to self-promote your open source project] by Jason Hibbets (Red Hat)(opensource.com)
 - [How we got our 2-year-old repo trending on GitHub in just 48 hours] by Abhinav Suri (medium.freecodecamp.com)
+- [awesome-indie] - Resources for independent developers to make money
 - Stackoverflow tag, such as [project](so-tag-project) or [open source](so-tag-open-source)
 - Stackoverflow questions:
   - [Where can I advertise an open source project?](so-1621916)
@@ -774,6 +775,7 @@ See also:
 <!--news-->
 [openshot 20 september update]: http://www.openshotvideo.com/2015/09/openshot-20-september-update.html
 <!--others-->
+[awesome indie]: https://github.com/mezod/awesome-indie
 [gh/rdp]: https://github.com/rdp
 [passion project notes]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit 
 [passion project]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit?usp=sharing
