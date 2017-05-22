@@ -9,7 +9,7 @@ A list of notes/tips for how to "make your open source project successful".
 
 OK the problem in my own head is.
 
-if you don't do something that's your "passion"(document on ["passion project"]),
+if you don't do something that's your "passion"(document on "[passion project]"),
 then you will tend to abandon it half way.
 Another, or possibly the same(?) problem is you might get split or diverted half way through.
 You need to push through probably (though pivoting is OK) to make something truly useful.
@@ -98,7 +98,7 @@ unless you have some way of cash flow turn around [donations? "premium" version 
     normal people do this by producing a saleable post-product. :|
 
 <!--TODO: Read this, [how to spread the word about your code (hacks.mozzilla.org)]-->
-NOTE: Read this, [how to spread the word about your code (hacks.mozzilla.org)]
+NOTE: Read this, [how to spread the word about your code] (hacks.mozzilla.org)
 
 90/10: last 10% takes 90% and is the 10% you don’t actually like doing [mundane], but is equally as important.
 
@@ -130,7 +130,7 @@ books that an Enterpreneur teacher loved/recommended:
 - The startup owner's manual by by Steve Blank , Bob Dorf
 - Lean startup by by Eric Ries (to a lesser extend)
 
-Read Mozilla hacker article ['Treat Open Source Like a Startup' by Julian Shapiro]). Very good blog post!
+Read Mozilla hacker article '[Treat Open Source Like a Startup]' by Julian Shapiro. Very good blog post!
 
 OK the real kicker is that you should probably not really start into something without realizing some caveats.
 Like, you'll probably, most likely, typically, be the only leader of your project.
@@ -288,7 +288,7 @@ Be careful to not spam, though.
 - If you do get marked as a spammer, then change your url to somesubdomain.yourproject.com .
 - For the first few links, try and add yourself to them.
 
-reference: [Promoting Open Source Projects by lex li (blog.lextudio.com)]
+Reference: [Promoting Open Source Projects] by lex li (blog.lextudio.com)
 
 
 - Make it part of your email signature (have your name link back to it, or the like).
@@ -463,7 +463,7 @@ Start with a project that (`imagine the ideal of what would happen with this pro
 - Put your "name" in h1 tags, also name your movies/video with SEO friendly names.
 
 For the true work-a-holics, here's how to try and boost your facebook page more:
-[7 tips for boosting seo of your facebook page by jim belosic (searchengineland.com)].
+[7 tips for boosting seo of your facebook page] by jim belosic (searchengineland.com).
 
 Basically name the tabs well is all he says.
 
@@ -622,7 +622,7 @@ In true, normal business sense:
 
 For a library, you need good "documentation coverage" of basically everything.
 Like examples, in the documentation/tutorial, of how to do each/everything.
-reference: [best documentation thoughts by rogerdpack (betterlogic.com)]
+reference: [best documentation thoughts] by rogerdpack (betterlogic.com)
 
 Every project (well maybe not API Libraries) needs a website
 (or at least some way to get to the documentation/tutorials straight-forwardly).
@@ -653,8 +653,8 @@ You can't rely (at the get go) from crowd sourcing people to do your work/propag
 nor can you rely on "other developers" to pitch in/join the team immediately and start adding features/fixing bugs/ making it work for you.
 
 The only thing "end users" really end up caring about is 30% functionality,
-70% the "look and feel" and "ease of use/ease of setup" LOL.
-Something close to that anyway LOL.
+70% the "look and feel" and "ease of use/ease of setup".
+Something close to that anyway.
 
 They say building a tool will bring people running but,
 building something intuitive might be more important for end users?
@@ -696,6 +696,7 @@ at its conclusion/fruition with all the bells and whistles added, etc.
 Of course, you'll want to pivot to really know/understand what end users end up wanting.
 
 <!--TODO: re-read [how to make your open source project really awesome by the clojurewerkz team (blog.clojurewerkz.org)] for fun-->
+NOTE: re-read [How to make your open source project really awesome] by the clojurewerkz team (blog.clojurewerkz.org)
 
 Seems like you almost want one guy just full time doing PR/getting feedback from users/beta testing while the other works on it.
 Submitting it to C|net, polishing UI [?] maybe there's enough work there.
@@ -723,18 +724,78 @@ Maybe in the ideal world people would make money at it?
 
 # Note 
 
-on 2017 '[how do you promote advertise evangelize your open source project]' question on Stackoverflow is deleted.
+on 2017 '[how do you promote advertise evangelize your open source project](so-95710)' question on Stackoverflow is deleted.
 
-[how to spread the word about your code (hacks.mozzilla.org)]: https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/
-["passion project"]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit?usp=sharing
-['Treat Open Source Like a Startup' by Julian Shapiro]: https://hacks.mozilla.org/2014/05/open-source-marketing-with-velocityjs/
-[passion project notes]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit 
-[Promoting Open Source Projects by lex li (blog.lextudio.com)]: https://blog.lextudio.com/promoting-open-source-projects-863ad2f838dc
-[7 tips for boosting seo of your facebook page by jim belosic (searchengineland.com)]: http://searchengineland.com/7-tips-for-boosting-seo-of-your-facebook-page-91961
-[gh/rdp]: https://github.com/rdp
+# Contributing
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+# Links
+
+See also:
+
+- [Producing Open Source Software] by Karl Fogel (producingoss.com)
+- [How to self-promote your open source project] by Jason Hibbets (Red Hat)(opensource.com)
+- [How we got our 2-year-old repo trending on GitHub in just 48 hours] by Abhinav Suri (medium.freecodecamp.com)
+- [awesome-indie] - Resources for independent developers to make money
+- Stackoverflow tag, such as [project](so-tag-project) or [open source](so-tag-open-source)
+- Stackoverflow questions:
+  - [Where can I advertise an open source project?](so-1621916)
+    - [Promoting Open Source Projects](so-2820033)
+  - [Best Practices for Setup and Management of an Open Source Project](so-2567766)
+  - [How are open source projects managed](so-721545)
+  - [How do I spread awareness of my open source project?](so-417079)
+  - [How do one start a successful open source project?](so-3419160)
+  - [How do you manage your own small project?](so-1077900)
+  - [Seeking advice for taking a project open-source](so-2022200)
+- Quora:
+  - [How do I promote my open source projects?](quora-hdi-promote-my-open-source-projects)
+  - [How do you promote an open source project?](quora-hdy-promote-an-open-source-project)
+  - [How do you promote software product on the Internet?](quora-hdy-promote-software-product-on-the-Internet)
+  - [What are some ways for people to promote their open-source projects after a period of launching?](quora-w-are-some-ways-for-people-to-promote-their-open-source-projects-after-a-period-of-launching)
+  - [What are the best websites or places in the internet to promote any software project?](quora-w-are-the-best-websites-or-places-in-the-internet-to-promote-any-software-project)
+  - [What are the places or websites where you can promote your app?](quora-w-are-the-places-or-websites-where-you-can-promote-your-app)
+  - [Where are the best places to promote a tech startup?](quora-w-are-the-best-places-to-promote-a-tech-startup)
+  - [Where is the best place to promote your website?](quora-w-is-the-best-place-to-promote-your-website)
+
+
+<!--website-->
 [37 signals]: http://www.37signals.blogs.com/
 [opensiteexplorer.org]: http://www.opensiteexplorer.org
-[best documentation thoughts by rogerdpack (betterlogic.com)]: http://betterlogic.com/roger/2012/06/best-documentation-thoughts
-[how to make your open source project really awesome by the clojurewerkz team (blog.clojurewerkz.org)]: http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/?utm_source=statuscode&utm_medium=email 
+[Producing Open Source Software]: http://producingoss.com/
+<!--article-->
+[7 tips for boosting seo of your facebook page]: http://searchengineland.com/7-tips-for-boosting-seo-of-your-facebook-page-91961
+[How to self-promote your open source project]: https://opensource.com/business/13/2/self-promoting-open-source-projects
+[How we got our 2-year-old repo trending on GitHub in just 48 hours]: https://medium.freecodecamp.com/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b
+[Promoting Open Source Projects]: https://blog.lextudio.com/promoting-open-source-projects-863ad2f838dc
+[Treat Open Source Like a Startup]: https://hacks.mozilla.org/2014/05/open-source-marketing-with-velocityjs/
+[best documentation thoughts]: http://betterlogic.com/roger/2012/06/best-documentation-thoughts
+[how to make your open source project really awesome]: http://blog.clojurewerkz.org/blog/2013/04/20/how-to-make-your-open-source-project-really-awesome/?utm_source=statuscode&utm_medium=email 
+[how to spread the word about your code]: https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/
+<!--news-->
 [openshot 20 september update]: http://www.openshotvideo.com/2015/09/openshot-20-september-update.html
-[how do you promote advertise evangelize your open source project]: http://stackoverflow.com/questions/95710/how-do-you-promote-advertise-evangelize-your-open-source-project/7290165#7290165
+<!--others-->
+[awesome indie]: https://github.com/mezod/awesome-indie
+[gh/rdp]: https://github.com/rdp
+[passion project notes]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit 
+[passion project]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit?usp=sharing
+<!--SO and quora-->
+[quora-hdi-promote-my-open-source-projects]: https://www.quora.com/How-do-I-promote-my-open-source-projects-Are-there-any-advertisement-services-for-free-that-can-be-used
+[quora-hdy-promote-an-open-source-project]: https://www.quora.com/How-do-you-promote-an-open-source-project
+[quora-hdy-promote-software-product-on-the-Internet]: https://www.quora.com/How-do-you-promote-software-product-on-the-Internet
+[quora-w-are-some-ways-for-people-to-promote-their-open-source-projects-after-a-period-of-launching]: https://www.quora.com/What-are-some-ways-for-people-to-promote-their-open-source-projects-after-a-period-of-launching
+[quora-w-are-the-best-places-to-promote-a-tech-startup]: https://www.quora.com/Where-are-the-best-places-to-promote-a-tech-startup
+[quora-w-are-the-best-websites-or-places-in-the-internet-to-promote-any-software-project]: https://www.quora.com/How-do-I-promote-my-open-source-projects-Are-there-any-advertisement-services-for-free-that-can-be-used
+[quora-w-are-the-places-or-websites-where-you-can-promote-your-app]: https://www.quora.com/What-are-the-places-or-websites-where-you-can-promote-your-app
+[quora-w-is-the-best-place-to-promote-your-website]: https://www.quora.com/Where-is-the-best-place-to-promote-your-website
+[so-1077900]: http://stackoverflow.com/questions/1077900/how-do-you-manage-your-own-small-project
+[so-1621916]: http://stackoverflow.com/questions/1621916/where-can-i-advertise-an-open-source-project
+[so-2022200]: http://stackoverflow.com/questions/2022200/seeking-advice-for-taking-a-project-open-source
+[so-2567766]: http://stackoverflow.com/questions/2567766/best-practices-for-setup-and-management-of-an-open-source-project
+[so-2820033]: http://stackoverflow.com/questions/2820033/promoting-open-source-projects
+[so-3419160]: http://stackoverflow.com/questions/3419160/how-do-one-start-a-successful-open-source-project
+[so-417079]: http://stackoverflow.com/questions/417079/how-do-i-spread-awareness-of-my-open-source-project
+[so-721545]: http://stackoverflow.com/questions/721545/how-are-open-source-projects-managed
+[so-95710]: http://stackoverflow.com/questions/95710/how-do-you-promote-advertise-evangelize-your-open-source-project/7290165#7290165
+[so-tag-open-source]:  http://stackoverflow.com/questions/tagged/project
+[so-tag-project]: http://stackoverflow.com/questions/tagged/open-source
