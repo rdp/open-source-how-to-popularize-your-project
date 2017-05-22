@@ -775,7 +775,7 @@ See also:
 <!--news-->
 [openshot 20 september update]: http://www.openshotvideo.com/2015/09/openshot-20-september-update.html
 <!--others-->
-[awesome indie]: https://github.com/mezod/awesome-indie
+[awesome-indie]: https://github.com/mezod/awesome-indie
 [gh/rdp]: https://github.com/rdp
 [passion project notes]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit 
 [passion project]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit?usp=sharing
