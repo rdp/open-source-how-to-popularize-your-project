@@ -81,6 +81,8 @@ Is it something you're going to go back and add in little features that *you* do
     They feel useless to you.
     Are you happy/excited to go and market it and keep marketing it, yourself?
   
+Another option: do a patroen, then you can keep it free but it motivates you to go get more "customers" still :)
+
 Is it something you'd actually "do" or "get around to" grooming the code,
 like really grooming it and finishing up the loose ends and unit tests?
 
