@@ -34,7 +34,7 @@ Not for me tho, not my style.
     you pay this, otherwise free [like "do you make enough money? pay this, otherwise pay this]" 
     or "charge for business use" or what not
 
-In the end, it seems that if you just do it as a passion project
+In the end, it seems that if you just do it as a passion project, free forever
 
     1) you won't have as much time to work on it (since you gotta work your day job too)
     2) you'll probably, most likely, assuming you're human,
@@ -49,7 +49,9 @@ In the end, it seems that if you just do it as a passion project
 If you do pay/charge for it think of how much cooler it may become, even excuse to provide real support [!] etc.
 
     I may have been wrong about preferring open source/free [?]
-
+    You can have a dual:  it's free with "an enterprise tier" or what not--it seems that if you reeeally want your
+       open source project to be well polished, you've just gotta add some kind of income facet to it...
+       
 It's a question of what/how good you want the end product to be.
 
     If you don't get remuneration (you don't have to always "charge" per se),
@@ -65,9 +67,8 @@ And yet there is a 3rd option:
     (like you setup the framework, pay others to do the heavy liftwork/amazon turk).
     or *maybe* *just maybe possibly* you could setup the framework and have others contribute for it,
     but don't count on it until you know you have rabid fan base that will do you every bidding.
-    Instead count on you having to fund it *forever* as it were.
 
-Some projects do offer tiers, or a single freebie.
+Some projects do offer tiers, or an intro freebie.
 
 If you don't go the pay route, expect:
 
