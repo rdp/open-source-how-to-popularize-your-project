@@ -728,6 +728,7 @@ Maybe in the ideal world people would make money at it?
 # Note 
 
 on 2017 '[how do you promote advertise evangelize your open source project](so-95710)' question on Stackoverflow is deleted.
+Archive from web.archive.org can be found [here](archive_so-95710)
 
 # Contributing
 
@@ -778,6 +779,7 @@ See also:
 <!--news-->
 [openshot 20 september update]: http://www.openshotvideo.com/2015/09/openshot-20-september-update.html
 <!--others-->
+[archive_so-95710]: https://web.archive.org/web/20100121161608/https://stackoverflow.com/questions/95710/how-do-you-promote-advertise-evangelize-your-open-source-project
 [awesome-indie]: https://github.com/mezod/awesome-indie
 [gh/rdp]: https://github.com/rdp
 [passion project notes]: https://docs.google.com/document/d/1DmnI7hMHYpVwEn3ddRl1C1uBxaTikwGLZaoPT6oBxt0/edit 
