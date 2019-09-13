@@ -725,6 +725,10 @@ Don't be afraid to spend money (your own personal money, and possibly a kickstar
 Also ideally you should get customer feedback, and meet some niche that people want/demand, if you want to be popular anyway.
 Maybe in the ideal world people would make money at it?
 
+At the end of the day, it is hard/painful to work on projects, even your own, if it's for features "for other people" etc.
+  So add some kind of pay option, seems to be the way to overcome this and be able to justify, mentally, polishing your own
+  products.  It's just the reality of the human mind :)
+
 # Note 
 
 on 2017 '[how do you promote advertise evangelize your open source project](so-95710)' question on Stackoverflow is deleted.
