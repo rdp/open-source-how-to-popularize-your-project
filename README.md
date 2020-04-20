@@ -729,6 +729,9 @@ At the end of the day, it is hard/painful to work on projects, even your own, if
   So add some kind of pay option, seems to be the way to overcome this and be able to justify, mentally, polishing your own
   products.  It's just the reality of the human mind :)
 
+These days it seems a "good" option to have a "pay tier" somehow, to keep things going.  Then you're
+encouraged to work on it, but it still helps as many people as possible.
+
 # Note 
 
 on 2017 '[how do you promote advertise evangelize your open source project](so-95710)' question on Stackoverflow is deleted.
