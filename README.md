@@ -729,8 +729,14 @@ At the end of the day, it is hard/painful to work on projects, even your own, if
   So add some kind of pay option, seems to be the way to overcome this and be able to justify, mentally, polishing your own
   products.  It's just the reality of the human mind :)
 
-These days it seems a "good" option to have a "pay tier" somehow, to keep things going.  Then you're
+These days it seems a "good" option to have a "pay tier" somehow, as well as free, to keep things going.  Then you're
 encouraged to work on it, but it still helps as many people as possible.
+Basically, anticipate if you do it "all free" to be spending the rest of your life "getting" to work on it.
+Including features for things you don't care about.  Free tech support for people that don't realize
+how valuable that is.
+Or it will stagnate.  If you don't see yourself doing that, then add a pay "something or other".  Tie-in.
+Else stagnate it seems.  Sometimes you can keep it in low maintenance mode (accepting PR's to keep it going).
+Sometimes.  But it won't be as polished.  Maybe still useful who knows...
 
 # Note 
 
