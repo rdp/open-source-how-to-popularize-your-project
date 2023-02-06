@@ -738,6 +738,9 @@ Or it will stagnate.  If you don't see yourself doing that, then add a pay "some
 Else stagnate it seems.  Sometimes you can keep it in low maintenance mode (accepting PR's to keep it going).
 Sometimes.  But it won't be as polished.  Maybe still useful who knows...
 
+One tip to being leveraged/adoptes/contributed-to/used by others is the missing license.
+A permissive (non-toxic) license like MIT or Apache would make these much more attractive!
+
 # Note 
 
 on 2017 '[how do you promote advertise evangelize your open source project](so-95710)' question on Stackoverflow is deleted.
